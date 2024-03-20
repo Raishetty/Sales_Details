@@ -1,2 +1,2 @@
 # Sales_Details
-Sales_Details in Angular Type Script as front end
+By integrating Angular frontend with a .NET Core API middleware, the "Sales_Details" app benefits from a modular, scalable, and maintainable architecture that separates concerns between frontend presentation logic and backend business logic and data access.
